@@ -1,0 +1,9 @@
+.product-content {
+    width: 23.5%;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  }
