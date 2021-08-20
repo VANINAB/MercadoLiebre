@@ -6,7 +6,7 @@ app.get ("/,", (req,res) => {
     res.send ("hola Mundo")
 })
 
-app.listen(3002, () => {
+app.listen(5001, () => {
     console.log ("se prendio")
 })
 
