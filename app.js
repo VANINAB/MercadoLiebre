@@ -6,7 +6,7 @@ app.get ("/,", (req,res) => {
     res.send ("hola Mundo")
 })
 
-app.listen(process.env.PORT || 80, () => {
+app.listen(process.env.PORT || 5002, () => {
     console.log ("se prendio")
 })
 
